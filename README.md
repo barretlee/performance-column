@@ -6,7 +6,7 @@
 - 公告 [#1](https://github.com/barretlee/performance-column/issues/1)
 - 研究大纲 [#2](https://github.com/barretlee/performance-column/issues/2)
 
-域名地址：<http://performance.barretlee.com>
+域名地址：<http://performance.barretlee.com> (待建站)
 
 ## 专栏维护模式
 
