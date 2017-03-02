@@ -1,4 +1,4 @@
-# 性能专栏（Performance Column）
+# 性能专栏
 
 性能专栏（Performance Column），旨在提升 PC/H5/Native 等多个端上对性能的认知。
 内容沉淀先以 [issue](https://github.com/barretlee/performance-column/new) 形式汇集，后续整理成文/刊。
