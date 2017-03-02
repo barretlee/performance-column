@@ -1,7 +1,7 @@
 # 性能专栏
 
 性能专栏（Performance Column），旨在提升 PC/H5/Native 等多个端上对性能的认知。
-内容沉淀先以 [Issue](https://github.com/barretlee/performance-column/new) 形式汇集，后续整理成文/刊，文章将发表在[小密圈][1]内部，部分对外。
+内容沉淀先以 [Issue](https://github.com/barretlee/performance-column/new) 形式汇集，后续整理成文/刊，文章将发表在 [小密圈][1] 内部，部分对外。
 
 - 公告 [#1](https://github.com/barretlee/performance-column/issues/1)
 - 研究大纲 [#2](https://github.com/barretlee/performance-column/issues/2)
