@@ -16,7 +16,7 @@
 - 在每个 issue 下，对该知识点做详细解剖，把相关的学习资料、原理、Demo 都放进来
 - 我会对每个 issue 做二次整理，对内容做点评、分析和补充
 
-本周专栏期望在两个月时间内完成知识产出，版权归 Performance Column 小组成员所有。
+期望在两个月时间内完成 [第一阶段](https://github.com/barretlee/performance-column/milestones) 的知识产出，版权归 Performance Column 小组成员所有。
 
 ## 小组成员
 
