@@ -6,6 +6,8 @@
 - 公告 [#1](https://github.com/barretlee/performance-column/issues/1)
 - 研究大纲 [#2](https://github.com/barretlee/performance-column/issues/2)
 
+域名地址：<http://performance.barretlee.com>
+
 ## 专栏维护模式
 
 性能一直是 Web 开发者长期关注的话题，本专栏的维护模式如下：
