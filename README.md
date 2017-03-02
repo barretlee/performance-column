@@ -24,4 +24,4 @@
 
 成员 | github | 备注
 ----|-----|-----
-小胡子哥 |[barretlee](https://github.com/barretlee) | 发起人
+小胡子哥 |[barretlee](https://github.com/barretlee) | 发起人，负责每个知识点 review
