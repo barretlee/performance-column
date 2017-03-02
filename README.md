@@ -1,7 +1,5 @@
 # 性能专栏（Performance Column）
 
-> 性能专刊是小胡子哥带领 [「前端进阶」小密圈](https://wx.xiaomiquan.com/mweb/views/joingroup/join_group.html?group_id=4512888248) 的朋友进行性能研究的战略地。原则上只允许小密圈内的朋友参与，旁人可以围观。
-
 性能专栏（Performance Column），旨在提升 PC/H5/Native 等多个端上对性能的认知。
 内容沉淀先以 [issue](https://github.com/barretlee/performance-column/new) 形式汇集，后续整理成文/刊。
 
@@ -22,6 +20,9 @@
 
 ## 小组成员
 
+> 性能专刊是小胡子哥带领 [「前端进阶」小密圈](https://wx.xiaomiquan.com/mweb/views/joingroup/join_group.html?group_id=4512888248) 的朋友进行性能研究的战略地。原则上只允许小密圈内的朋友参与，旁人可以围观。
+
 成员 | github | 备注
 ----|-----|-----
 小胡子哥 |[barretlee](https://github.com/barretlee) | 发起人，负责每个知识点 review
+
